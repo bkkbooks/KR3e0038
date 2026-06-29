@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0038/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 婦人大全良方
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:05:21.802625'
+  source:
+    repository: kanripo
+    path: KR3e0038/KR3e0038_000.txt
+hash: sha256:641605aaa6353fbfea0b67dddd67c41b5eedbb11a8e3196862218a132378b03f
